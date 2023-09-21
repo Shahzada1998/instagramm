@@ -1,7 +1,11 @@
 .idea
 venv
+
 static
 media
+
 .env
+.env.prod
+.env.prod.db
 
 **/__pycache__
